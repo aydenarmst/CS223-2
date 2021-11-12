@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/ayden/OneDrive/Documents/College textbooks/junior yr/Cpts 223/MA3 3/build",
+  "command": "C:\\PROGRA~1\\MinGW\\bin\\MI9EE7~1.EXE    -Wall -g -std=gnu++11 -o CMakeFiles\\CPTS_223_MA3-executable.dir\\main.cpp.obj -c \"C:\\Users\\ayden\\OneDrive\\Documents\\College textbooks\\junior yr\\Cpts 223\\MA3 3\\main.cpp\"",
+  "file": "C:/Users/ayden/OneDrive/Documents/College textbooks/junior yr/Cpts 223/MA3 3/main.cpp"
+},
+{
+  "directory": "C:/Users/ayden/OneDrive/Documents/College textbooks/junior yr/Cpts 223/MA3 3/build",
+  "command": "C:\\PROGRA~1\\MinGW\\bin\\MI9EE7~1.EXE    -Wall -g -std=gnu++11 -o CMakeFiles\\CPTS_223_MA3-executable.dir\\TwitterData.cpp.obj -c \"C:\\Users\\ayden\\OneDrive\\Documents\\College textbooks\\junior yr\\Cpts 223\\MA3 3\\TwitterData.cpp\"",
+  "file": "C:/Users/ayden/OneDrive/Documents/College textbooks/junior yr/Cpts 223/MA3 3/TwitterData.cpp"
+}
+]
