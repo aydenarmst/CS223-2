@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/c/Users/ayden/OneDrive/Documents/College textbooks/junior yr/Cpts 223/PA3_final/src/build",
+  "command": "/usr/bin/c++     -Wall -g   -std=gnu++11 -o CMakeFiles/CPTS_223_PA3-executable.dir/main.cpp.o -c \"/mnt/c/Users/ayden/OneDrive/Documents/College textbooks/junior yr/Cpts 223/PA3_final/src/main.cpp\"",
+  "file": "/mnt/c/Users/ayden/OneDrive/Documents/College textbooks/junior yr/Cpts 223/PA3_final/src/main.cpp"
+}
+]

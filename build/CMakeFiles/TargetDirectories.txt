@@ -1,0 +1,3 @@
+/mnt/c/Users/ayden/OneDrive/Documents/College textbooks/junior yr/Cpts 223/PA3_final/src/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/ayden/OneDrive/Documents/College textbooks/junior yr/Cpts 223/PA3_final/src/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ayden/OneDrive/Documents/College textbooks/junior yr/Cpts 223/PA3_final/src/build/CMakeFiles/CPTS_223_PA3-executable.dir

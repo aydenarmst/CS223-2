@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/ayden/OneDrive/Documents/College textbooks/junior yr/Cpts 223/PA3_final/src/ChainingHash.h
+iostream
+-
+vector
+-
+list
+-
+stdexcept
+-
+algorithm
+-
+functional
+-
+Hash.h
+/mnt/c/Users/ayden/OneDrive/Documents/College textbooks/junior yr/Cpts 223/PA3_final/src/Hash.h
+
+/mnt/c/Users/ayden/OneDrive/Documents/College textbooks/junior yr/Cpts 223/PA3_final/src/Hash.h
+math.h
+-
+
+/mnt/c/Users/ayden/OneDrive/Documents/College textbooks/junior yr/Cpts 223/PA3_final/src/ProbingHash.h
+vector
+-
+stdexcept
+-
+Hash.h
+/mnt/c/Users/ayden/OneDrive/Documents/College textbooks/junior yr/Cpts 223/PA3_final/src/Hash.h
+
+/mnt/c/Users/ayden/OneDrive/Documents/College textbooks/junior yr/Cpts 223/PA3_final/src/main.cpp
+map
+-
+string
+-
+chrono
+-
+cassert
+-
+ChainingHash.h
+/mnt/c/Users/ayden/OneDrive/Documents/College textbooks/junior yr/Cpts 223/PA3_final/src/ChainingHash.h
+ProbingHash.h
+/mnt/c/Users/ayden/OneDrive/Documents/College textbooks/junior yr/Cpts 223/PA3_final/src/ProbingHash.h
+iostream
+-
+fstream
+-
+
